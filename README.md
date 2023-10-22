@@ -21,3 +21,6 @@ https://www.erinmcintosh.com/#/weite/ [ Accessed 7/10/2022]
 
 Membrane vesicle-mediated release of bacterial RNA (online) - 
 www.nature.com https://www.nature.com/articles/srep15329 [Accessed 7/10/2022]
+
+# Author
+Kaja Weclawska
